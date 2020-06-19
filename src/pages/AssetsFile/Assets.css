@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  margin: 50px 370px;
+  width: 50%;
+  padding: 20px;
+  background-color: black;
+  border-radius: 20px;
+  border: 6px double darkOrange;
+  color: white;
+}
+.pic1 {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(103, 3, 94);
+}
+.pic1 p {
+  margin: 30px auto;
+  background-color: rgb(243, 195, 122);
+}
+.pic1 .new1 {
+  border: 5px double rgb(103, 3, 94);
+  border-radius: 30px;
+  width: 450px;
+  margin: 20px 0px;
+}
+.pic2 {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(168, 103, 5);
+  margin: 20px;
+  padding: 30px;
+}
+.pic2 p {
+  background-color: rgb(243, 195, 122);
+  width: 900px;
+}
+.pic3 {
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+  background-color: rgb(168, 103, 5);
+  padding: 30px;
+}
+.pic3 p {
+  background-color: rgb(243, 195, 122);
+  margin: 10px;
+  height: 100px;
+}
+.pic4 {
+  display: block;
+  width: 700px;
+  background-color: rgb(243, 195, 122);
+  padding: 40px;
+  margin: 80px auto;
+}
+.clubs {
+  background-color: rgb(103, 3, 94);
+  padding: 30px;
+  color: white;
+}

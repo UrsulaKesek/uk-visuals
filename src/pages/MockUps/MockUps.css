@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+    margin:0 auto;
+}
+body{
+    background-color: rgb(103, 3, 94);
+    height:6000px;
+}
+.desc1,.desc3{
+    display:flex;
+    flex-direction: row;
+    margin:30px auto;
+    background-color: rgb(243, 195, 122);
+    width:80vw;
+    height:700px;
+    padding:50px;
+}
+.desc3{
+    height:230px;
+}
+
+.desc2,.desc2a,.desc3{
+    margin:30px auto;
+    background-color: rgb(243, 195, 122);
+    width:80vw;
+    height:1350px;
+}
+.desc2a{
+    height:850px;
+}
+.desc2 h2,.desc2a h2{
+    padding:20px;
+    text-align: center;
+}
+.desc2 p,.desc2a p{
+ width:1100px;
+}
+.desc3{
+    height:400px;
+}
+.img1,.img2,.img3,.img4{
+padding:50px 0px;;
+}
+.img3{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around ;
+}
+.awp{
+    position: relative;
+    top:115px;
+}
+.mmu{
+    position: relative;
+    top:115px;
+}
+.m2mu{
+    position: relative;
+    top:75px;
+}
+.m3mu{
+    position: relative;
+    top:70px;
+}
+hr.new1{
+    border:5px double  rgb(103, 3, 94);
+    border-radius:30px ;
+    width:300px;
+    margin:20px 0px;
+}
+hr.new2{
+    border:5px double  rgb(103, 3, 94);
+    border-radius:30px ;
+    width:250px;
+}
+ p{
+    width:500px;
+    padding:20px;
+    font-size: larger;
+}
