@@ -17,7 +17,7 @@ const MockUps = () => {
         <p>
           <h2> Project: Perfume Shop. </h2>
           <hr className="new1"></hr>
-          ITEM 1: Mock up of a slice for MacBookAir. Desktop pages. Created
+          ITEM 1: Mock up for the homepage of the website for MacBookAir. Desktop pages. Created
           using Photoshop.
           <hr className="new1"></hr>
           Original size of shopfront with birds photograph : 5028 x 6048 pixels
@@ -30,8 +30,9 @@ const MockUps = () => {
         <p className="awp">
           The photographs I used for this mock-up are of a shop window display
           at Bonwit Teller, NewYork from 1955. Andy Warhol created the backdrop
-          display of wooden plank panels,painted (possibly a light grey,hard to
-          tell) and covered with hand drawn images of cats and birds,with round
+          display of wooden plank panels,painted (in a light tone,
+          impossible to know what colour it might have been
+          ) and dotted about  with hand drawn images of cats and birds,with round
           and square cut-out holes in the planks, looking through to perfume
           packaging behind.
         </p>
@@ -61,7 +62,7 @@ const MockUps = () => {
           (hex code: #7c046e).
         </p>
         <p>
-          3. Introduced the two photographs (which have been optimised and
+          3.I introduced the two photographs (which have been optimised and
           re-sized) as the backdrop,positioned and aligned them.
         </p>
         <p>
@@ -70,7 +71,8 @@ const MockUps = () => {
           lower-case for "perfumes" in this image.Font-family:Plantagenet
           Cherokee. I chose the text colour to have a good contrast with
           background for readability. I have tried to use good contrast with
-          texts throughout.
+          texts throughout.I chose this font because I thought it wnet well with
+          the lettering on the photographs.
         </p>
         <p>
           5. Created and arranged several rectangles and oval shapes over the
@@ -82,7 +84,7 @@ const MockUps = () => {
           The colours were colour-blind safe.
         </p>
         <p>
-          7. Found several images of perfume bottles from the internet. I chose
+          7.  I found several images of perfume bottles from the internet. I chose
           glass ones which had similar colours:black/gold/white.I cut them away
           from their backgrounds, using the magic selection tool, leaving them
           on a transparent background.

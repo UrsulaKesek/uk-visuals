@@ -26,10 +26,9 @@ import tightrope from "./Images/tightrope5.jpg";
 const AssetsFile = () => {
   return (
     <div>
-      <header className="assets">ASSETS: use FULL SCREEN VIEW and keep scrolling!</header>
+      <header className="assets">ASSETS: use FULL SCREEN VIEW and keep scrolling! There are 6 sections.</header>
       <div className="pic1">
         <p>
-          
           IMAGE 1.size:450 x 552 px resolution 72ppi. IMAGE.1a size:700 x 866 px
           resolution 72ppi.
           <hr className="new1"></hr>
@@ -59,17 +58,19 @@ const AssetsFile = () => {
             a size of 1005 x 2121 px.Saved image.
           </p>
           <p>
-            3.Duplicate the image and re-size that to 500 x 1055px.Still quite
-            big.Saved Image.
+            3. I duplicate the image and re-sized that to 500 x 1055px.Still quite
+            big.Saved the image.
           </p>
-          <p>4.Duplicate and re-size again to 250 x 525px.Saved Image.</p>
-          <p>5.Posterize the image and saved.</p>
+          <p>4.Duplicated and re-sized again to 250 x 525px.Saved Image.</p>
+          <p>5.Posterized the image and saved.</p>
           <p>
-            6.Duplicate image and use eraser tool,brushes and paint bucket to
-            get to stage 3.Saved Image.
+            6.Duplicated image and used eraser tool,brushes and paint bucket to
+            get to stage 3 and
+            saved Image.
           </p>
           <p>
-            7.Duplicate and re-size image to portrait size 420 x 420 px.Saved
+            7. I did not know when I converted the cat that I would only use part of it.
+            Duplicated and re-sized image to portrait size 420 x 420 px.Saved
             Image.
           </p>
         </div>
@@ -133,7 +134,7 @@ const AssetsFile = () => {
         <p> Optimised size:75 x 142 px 8Kb</p>
       </div>
       <div className="pic4">
-        <h2 className="clubs"> Image 5:Playing-card Clubs symbol</h2>
+        <h2 className="clubs"> Image 4:Playing-card Clubs symbol</h2>
         <div className="clubs">
           <img src={clubs4} alt="club-symbol-small" />
           <p>size 32 x 32 px</p>
@@ -196,7 +197,7 @@ const AssetsFile = () => {
           3.I used the magic stencil tool to separate out the bird from the
           background.
         </p>
-        <p>4.copied the whole grouped bird to a separate clipboard.</p>
+        <p>4.copied the grouped layers of the bird to a separate clipboard.</p>
         <p>5.Used the eraser to tidy out the background.</p>
         <p>
           6.I added a red ellipse for the red-breast and used the bucket tool
