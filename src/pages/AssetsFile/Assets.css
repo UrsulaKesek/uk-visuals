@@ -75,3 +75,14 @@ header {
   background-color: rgb(103, 3, 94);
   padding:30px;
 }
+.pic7{
+  display:flex;
+  flex-direction: column;
+  margin:30px;
+  background-color: rgb(243, 195, 122);
+  padding:30px;
+}
+.pic7 p{
+    background-color: rgb(243, 195, 122);
+    width: 900px;
+  }

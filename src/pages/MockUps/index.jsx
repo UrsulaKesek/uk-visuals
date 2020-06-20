@@ -1,6 +1,6 @@
 import React from "react";
 import "./MockUps.css";
-import perfume from "./Images/perfume-project-i.png";
+import perfume from "./Images/perfume-project-k.png";
 import perfume1 from "./Images/Magenta1p.png";
 import perfume2 from "./Images/mobile-shop-front-1iv.png";
 import perfume3 from "./Images/mobile-shop-front-viii.png";
