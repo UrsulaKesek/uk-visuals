@@ -3,16 +3,12 @@
   margin: 0 auto;
 }
 
-header {
-  display: flex;
-  flex-direction: column;
-  margin: 50px 370px;
-  width: 50%;
-  padding: 20px;
-  background-color: black;
-  border-radius: 20px;
-  border: 6px double darkOrange;
-  color: white;
+.assets {
+  height: 90px;
+  padding: 30px 140px;
+}
+.img1,.img1a{
+  margin:0px auto;
 }
 .pic1 {
   display: flex;
@@ -31,7 +27,7 @@ header {
 }
 .pic2 {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   background-color: rgb(168, 103, 5);
   margin: 20px;
   padding: 30px;
@@ -39,6 +35,11 @@ header {
 .pic2 p {
   background-color: rgb(243, 195, 122);
   width: 900px;
+}
+.picta{
+  display:flex;
+  flex-direction:row ;
+  margin:30px;
 }
 .pic3 {
   display: flex;

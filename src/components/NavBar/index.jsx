@@ -4,7 +4,9 @@ import "./NavBar.css";
 
 const NavBar = () => <nav>
     <header className="header">
-        <h1>VISUAL DESIGN 2020</h1>
+        <h1>VISUAL DESIGN
+        <h2>2020</h2>
+        </h1>
         <h2>URSULA KESEK</h2>
     </header>
     <ul>

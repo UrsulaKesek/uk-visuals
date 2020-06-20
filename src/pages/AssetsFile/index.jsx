@@ -26,10 +26,10 @@ import tightrope from "./Images/tightrope5.jpg";
 const AssetsFile = () => {
   return (
     <div>
-      <header>ASSETS: use Full Screen View and keep scrolling!</header>
+      <header className="assets">ASSETS: use FULL SCREEN VIEW and keep scrolling!</header>
       <div className="pic1">
         <p>
-          {" "}
+          
           IMAGE 1.size:450 x 552 px resolution 72ppi. IMAGE.1a size:700 x 866 px
           resolution 72ppi.
           <hr className="new1"></hr>
@@ -41,8 +41,12 @@ const AssetsFile = () => {
           contrasts. The Bonwit's letters in the 1st image have been cleaned up
           of extraneous marks.
         </p>
+        <div className="img1">
         <img src={awletters1} alt="hybrid-font" />
+        </div>
+        <div className="img1a">
         <img src={awletters} alt="hybrid-font" />
+        </div>
       </div>
       <div className="pic2">
         <h1> Image 2:Evolution of the blue cat.</h1>
@@ -70,17 +74,17 @@ const AssetsFile = () => {
           </p>
         </div>
       </div>
-      <div className="pic2">
+      <div className="picta">
         <img src={cat} alt="cat-drawing" />
         <img src={cat1} alt="cat-drawing" />
         <img src={cat2} alt="cat-drawing" />
       </div>
-      <div className="pic2">
+      <div className="picta">
         <img src={cat3} alt="blue-cat-drawing" />
       </div>
       <div className="pic2">
         <h1> Image 3:Perfume Bottles.</h1>
-        <div className="pic2a">
+        <div className="pic2">
           <p>1. I collected several perfume bottle images from the internet.</p>
           <p>2. I chose ones with similar colours:black gold white.</p>
           <p>

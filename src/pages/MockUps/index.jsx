@@ -9,7 +9,9 @@ const MockUps = () => {
   return (
     <>
       <header className="mockups">
-        MOCKUPS: use Full Screen View and keep scrolling!
+        MOCKUPS: use
+        FULL SCREEN VIEW 
+        and keep scrolling!
       </header>
       <div className="desc1">
         <p>
@@ -177,7 +179,9 @@ const MockUps = () => {
         <p>9.Re-used the clubs symbol banner from mockup 1, along the top.</p>
         <p>
           10.Incorporated the cat image,intended to be used as a pop-out
-          button,on one of the products.
+          button,on one of the products.</p>
+          <p>
+          11.Added some small birds.
         </p>
       </div>
       <div className="desc3">

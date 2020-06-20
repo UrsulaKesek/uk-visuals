@@ -1,7 +1,8 @@
 *{
     box-sizing: border-box;
-    margin:0 auto;
 }
-body{
-    background-color: cornflowerblue;
+h1{
+    color:white;
+    margin:40px 280px;
+
 }
