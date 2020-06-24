@@ -32,13 +32,28 @@ nav ul {
 nav ul li{
     display:block ;
     margin:0 1vmin;
-    background-color: rgb(243,195,122);
-    padding:20px;
-    border-radius:20px ;
-    border:6px double darkOrange ;
-    color:black;
-    font-weight:900 ;
-}
+    width: 150px;
+    height: 50px;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 20px;
+    border:6px double black ;
+    background-color: rgb(245, 170, 7);
+    background-image: linear-gradient(
+      to top left,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2) 30%,
+      rgba(243, 139, 139, 0.7)
+    );
+    box-shadow: inset 4px 4px 4px rgba(255, 255, 255, 0.6),
+      inset -4px -4px 3px rgba(0, 0, 0, 0.6);
+      outline:none;
+  
+  }
 nav ul li a{
     text-decoration:none ;
 }

@@ -1,7 +1,7 @@
 import React from "react";
 import "./MockUps.css";
 import perfume from "./Images/perfume-project-k.png";
-import perfume1 from "./Images/Magenta1p.png";
+import perfume1 from "./Images/Magenta1q.png";
 import perfume2 from "./Images/mobile-shop-front-1iv.png";
 import perfume3 from "./Images/mobile-shop-front-viii.png";
 
@@ -71,7 +71,7 @@ const MockUps = () => {
           lower-case for "perfumes" in this image.Font-family:Plantagenet
           Cherokee. I chose the text colour to have a good contrast with
           background for readability. I have tried to use good contrast with
-          texts throughout.I chose this font because I thought it wnet well with
+          texts throughout.I chose this font because I thought it went well with
           the lettering on the photographs.
         </p>
         <p>
@@ -79,9 +79,10 @@ const MockUps = () => {
           "cut-outs", in the planks, in the photographs.
         </p>
         <p>
-          6. I used 6 colours from a group I created using the creative-cloud
+          6. I used 5 colours from a group I created using the creative-cloud
           colour tool in Photoshop,saving them to my colour library in the psd.
-          The colours were colour-blind safe.
+          The colours were colour-blind safe.I added some other colours too,
+          which were variations on these 5 colours.
         </p>
         <p>
           7.  I found several images of perfume bottles from the internet. I chose
@@ -118,8 +119,8 @@ const MockUps = () => {
           15.I have copied and adjusted the individual letters from the
           photographs and turned them into a font (see Assets page). I have
           filled in the missing letters using an existing font, Plantagenet
-          Cherokee which I have used on this mockup.Other fonts to use could be
-           Black Ops One and Saira Stencil One.
+          Cherokee which I have used on this mockup. Other fonts, I could use,
+          which I found on Google Fonts,are Black Ops One and Saira Stencil One.
         </p>
         <p>
           16.I used export save for web to optimise the psd. Chose to use PNG-8
@@ -242,6 +243,10 @@ const MockUps = () => {
           9. Created a text area for the page-links HOME ABOUT SHOP PLANTS using
           font Plantagenet Cherokee
         </p>
+        <p>
+          10.I added some  coloured,square social media icons inside the bottom rectangle.
+          They are from www.vecteezy.com
+        </p>
       </div>
       <div className="desc2a">
         <h2>Mockup 4</h2>
@@ -285,6 +290,11 @@ const MockUps = () => {
            optimised from jpeg to 8-PNG on photoshop save for web.
           Final images for this space will be researched.
         </p>
+        <p>
+          10.I added some larger coloured,square social media icons inside the bottom rectangle.
+          They are from www.vecteezy.com
+        </p>
+
 
       </div>
     </>

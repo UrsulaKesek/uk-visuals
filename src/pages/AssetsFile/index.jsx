@@ -32,7 +32,8 @@ const AssetsFile = () => {
           IMAGE 1.size:450 x 552 px resolution 72ppi. IMAGE.1a size:700 x 866 px
           resolution 72ppi.
           <hr className="new1"></hr>
-          Playing with the letters from the Bonwit's Photographs. There are 15
+          I started playing with the letters from the Bonwit's Photographs.
+          A B E F G I L M N O R S T V W There are 15
           out of 26. I filled in the missing 11 with font Saira Stencil One to
           create a hybrid. It's not a perfect match of course. Another font I
           could use is Black Ops One. The psd file is editable and one could
@@ -150,7 +151,7 @@ const AssetsFile = () => {
         <p>
           {" "}
           Image 4:A similar process to the way the cat image was produced was
-          utilised here for the club symbol.{" "}
+          utilised here for the club symbol and I used a 48x48 px version for the favicon.
         </p>
       </div>
       <div className="pic5">
