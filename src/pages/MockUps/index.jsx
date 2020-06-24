@@ -9,16 +9,14 @@ const MockUps = () => {
   return (
     <>
       <header className="mockups">
-        MOCKUPS: use
-        FULL SCREEN VIEW 
-        and keep scrolling!
+        MOCKUPS: use FULL SCREEN VIEW and keep scrolling!
       </header>
       <div className="desc1">
         <p>
           <h2> Project: Perfume Shop. </h2>
           <hr className="new1"></hr>
-          ITEM 1: Mock up for the homepage of the website for MacBookAir. Desktop pages. Created
-          using Photoshop.
+          ITEM 1: Mock up for the homepage of the website for MacBookAir.
+          Desktop pages. Created using Photoshop.
           <hr className="new1"></hr>
           Original size of shopfront with birds photograph : 5028 x 6048 pixels
           at resolution of 600 px/inch. File-size:15.4 MB.
@@ -30,11 +28,30 @@ const MockUps = () => {
         <p className="awp">
           The photographs I used for this mock-up are of a shop window display
           at Bonwit Teller, NewYork from 1955. Andy Warhol created the backdrop
-          display of wooden plank panels,painted (in a light tone,
-          impossible to know what colour it might have been
-          ) and dotted about  with hand drawn images of cats and birds,with round
-          and square cut-out holes in the planks, looking through to perfume
-          packaging behind.
+          display of wooden plank panels,painted (in a light tone, impossible to
+          know what colour it might have been ) and dotted about with hand drawn
+          images of cats and birds,with round and square cut-out holes in the
+          planks, looking through to perfume packaging behind.See links below Birds and Cats.
+          <div className="newschoola">
+            <a
+            className="newschool"
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://digitalarchives.library.newschool.edu/index.php/Detail/objects/KA0001_000495"
+          >
+            Birds
+          </a>
+          </div>
+          <div className="newschoola">
+          <a
+            className="newschool"
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://digitalarchives.library.newschool.edu/index.php/Detail/objects/KA0001_000496"
+          >
+            Cats
+          </a>
+          </div>
         </p>
         <p className="mmu">
           My first mock-up image incorporates two black and white photographs as
@@ -85,10 +102,10 @@ const MockUps = () => {
           which were variations on these 5 colours.
         </p>
         <p>
-          7.  I found several images of perfume bottles from the internet. I chose
-          glass ones which had similar colours:black/gold/white.I cut them away
-          from their backgrounds, using the magic selection tool, leaving them
-          on a transparent background.
+          7. I found several images of perfume bottles from the internet. I
+          chose glass ones which had similar colours:black/gold/white.I cut them
+          away from their backgrounds, using the magic selection tool, leaving
+          them on a transparent background.
         </p>
         <p>8. Copied,re-sized and saved the images to a folder.</p>
         <p>
@@ -96,7 +113,8 @@ const MockUps = () => {
           shapes,using the positioning tool.
         </p>
         <p>
-          10.I used the text tool (font-family:Platagenet Cherokee) to create labels for the links to other pages.
+          10.I used the text tool (font-family:Platagenet Cherokee) to create
+          labels for the links to other pages.
         </p>
         <p>
           11.Using the selection tool,cut out the clubs symbol from one of the
@@ -182,10 +200,9 @@ const MockUps = () => {
         <p>9.Re-used the clubs symbol banner from mockup 1, along the top.</p>
         <p>
           10.Incorporated the cat image,intended to be used as a pop-out
-          button,on one of the products.</p>
-          <p>
-          11.Added some small birds.
+          button,on one of the products.
         </p>
+        <p>11.Added some small birds.</p>
       </div>
       <div className="desc3">
         <p>
@@ -244,8 +261,8 @@ const MockUps = () => {
           font Plantagenet Cherokee
         </p>
         <p>
-          10.I added some  coloured,square social media icons inside the bottom rectangle.
-          They are from www.vecteezy.com
+          10.I added some coloured,square social media icons inside the bottom
+          rectangle. They are from www.vecteezy.com
         </p>
       </div>
       <div className="desc2a">
@@ -277,8 +294,8 @@ const MockUps = () => {
 
         <p>
           7.The central area holds a text-box for a list of plants,a pale blue
-          rectangle inside a green one which will hold images of the
-          plants in the list and a map.
+          rectangle inside a green one which will hold images of the plants in
+          the list and a map.
         </p>
         <p>
           8.Map of the Indian Ocean and Islands is from University of Texas
@@ -286,16 +303,14 @@ const MockUps = () => {
         </p>
         <p>
           9.Photograph of ylang-ylang - stock image from the internet,
-           duplicated and re-sized from 736x736 px down to 184x184px
-           optimised from jpeg to 8-PNG on photoshop save for web.
-          Final images for this space will be researched.
+          duplicated and re-sized from 736x736 px down to 184x184px optimised
+          from jpeg to 8-PNG on photoshop save for web. Final images for this
+          space will be researched.
         </p>
         <p>
-          10.I added some larger coloured,square social media icons inside the bottom rectangle.
-          They are from www.vecteezy.com
+          10.I added some larger coloured,square social media icons inside the
+          bottom rectangle. They are from www.vecteezy.com
         </p>
-
-
       </div>
     </>
   );

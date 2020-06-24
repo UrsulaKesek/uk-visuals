@@ -4,7 +4,7 @@
 }
 body {
   background-color: rgb(103, 3, 94);
-  height: 6000px;
+  height: 7000px;
 }
 .desc1,
 .desc3 {
@@ -89,4 +89,28 @@ p {
   width: 500px;
   padding: 20px;
   font-size: larger;
+}
+.newschool {
+  margin:20px 70px;
+  display:flex;
+  width:110px;
+  height:60px;
+  line-height: 1.5;
+  padding: 5px 24px;
+  font-size: 1.5rem;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 20px;
+  border: 6px double black;
+  background-color: rgb(245, 170, 7);
+  background-image: linear-gradient(
+    to top left,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2) 30%,
+    rgba(243, 139, 139, 0.7)
+  );
+  box-shadow: inset 4px 4px 4px rgba(255, 255, 255, 0.6),
+    inset -4px -4px 3px rgba(0, 0, 0, 0.6);
+  outline: none;
 }
