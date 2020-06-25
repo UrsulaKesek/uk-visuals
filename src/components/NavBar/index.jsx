@@ -21,7 +21,7 @@ const NavBar = () => <nav>
             <Link to='/assets' exact>Assets File</Link>
         </li>
         <li>
-            <Link to='/gifsprite' exact>GifSprite File</Link>
+            <Link to='/gifsprite' exact>Gif File</Link>
         </li>
 
     </ul>
