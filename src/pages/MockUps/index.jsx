@@ -31,26 +31,27 @@ const MockUps = () => {
           display of wooden plank panels,painted (in a light tone, impossible to
           know what colour it might have been ) and dotted about with hand drawn
           images of cats and birds,with round and square cut-out holes in the
-          planks, looking through to perfume packaging behind.See links below Birds and Cats.
+          planks, looking through to perfume packaging behind.See links below
+          Birds and Cats.
           <div className="newschoola">
             <a
-            className="newschool"
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://digitalarchives.library.newschool.edu/index.php/Detail/objects/KA0001_000495"
-          >
-            Birds
-          </a>
+              className="newschool"
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://digitalarchives.library.newschool.edu/index.php/Detail/objects/KA0001_000495"
+            >
+              Birds
+            </a>
           </div>
           <div className="newschoola">
-          <a
-            className="newschool"
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://digitalarchives.library.newschool.edu/index.php/Detail/objects/KA0001_000496"
-          >
-            Cats
-          </a>
+            <a
+              className="newschool"
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://digitalarchives.library.newschool.edu/index.php/Detail/objects/KA0001_000496"
+            >
+              Cats
+            </a>
           </div>
         </p>
         <p className="mmu">
@@ -262,8 +263,17 @@ const MockUps = () => {
         </p>
         <p>
           10.I added some coloured,square social media icons inside the bottom
-          rectangle. They are from www.vecteezy.com
-        </p>
+          rectangle. They are from:
+          </p>
+          <a
+            className="vect"
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://vecteezy.com"
+          >
+            vecteezy
+          </a>
+
       </div>
       <div className="desc2a">
         <h2>Mockup 4</h2>
@@ -301,6 +311,8 @@ const MockUps = () => {
           8.Map of the Indian Ocean and Islands is from University of Texas
           Libraries. Downloaded from the internet and re-sized in photoshop.
         </p>
+        <a className="map" href="https://legacy.lib.utexas.edu/maps/islands_oceans_poles/indianoceanarea.jpg">Indian Ocean Map
+        </a>
         <p>
           9.Photograph of ylang-ylang - stock image from the internet,
           duplicated and re-sized from 736x736 px down to 184x184px optimised
@@ -309,8 +321,16 @@ const MockUps = () => {
         </p>
         <p>
           10.I added some larger coloured,square social media icons inside the
-          bottom rectangle. They are from www.vecteezy.com
+          bottom rectangle. They are from:
         </p>
+        <a
+          className="vect"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://vecteezy.com"
+        >
+          vecteezy
+        </a>
       </div>
     </>
   );
