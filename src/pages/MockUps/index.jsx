@@ -106,7 +106,8 @@ const MockUps = () => {
           7. I found several images of perfume bottles from the internet. I
           chose glass ones which had similar colours:black/gold/white.I cut them
           away from their backgrounds, using the magic selection tool, leaving
-          them on a transparent background.
+          them on a transparent background.Links to some original images are included
+           in the next mock-up annotations.(Crystal Gallery and World Brand Design) 
         </p>
         <p>8. Copied,re-sized and saved the images to a folder.</p>
         <p>
