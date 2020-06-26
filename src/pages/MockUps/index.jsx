@@ -321,8 +321,8 @@ const MockUps = () => {
 
         <p>
           7.The central area holds a text-box for a list of plants,a pale blue
-          rectangle inside a green one which will hold images of the plants in
-          the list and a map.
+          rectangle for a map and a green one which will hold images of the plants in
+          the list.I have positioned one image of ylang-ylang.
         </p>
         <p>
           8.Map of the Indian Ocean and Islands is from University of Texas
