@@ -4,7 +4,7 @@ const GifSpriteFile =()=>
  {
     return (
         <div>
-           I am the GifSprite File 
+           I am the Gif File 
         </div>
     )
 }
