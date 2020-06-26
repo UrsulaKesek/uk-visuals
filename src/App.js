@@ -10,7 +10,7 @@ function App() {
       <Route path="/" exact component={HomePage} />
       <Route path="/mockups" exact component={MockUps} />
       <Route path="/assets" exact component={AssetsFile} />
-      <Route path="/gifsprite" exact component={GifSpriteFile} />
+      <Route path="/gif" exact component={GifSpriteFile} />
     </Switch>
     </>
   );
