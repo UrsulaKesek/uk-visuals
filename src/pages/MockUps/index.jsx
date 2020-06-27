@@ -67,7 +67,6 @@ const MockUps = () => {
           "birds" was slang for men and women respectively.Cool cats and chicks!
         </p>
       </div>
-
       <div className="img1">
         <img src={perfume1} alt="perfume-shop" />
       </div>

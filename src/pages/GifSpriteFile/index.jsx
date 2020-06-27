@@ -1,13 +1,11 @@
 import React from "react";
-import Birds from "./Images/bird-anim-v.gif";
-import Letters from "./Images/aw-letters-9a.gif";
+import Birds from "./Images/bird-anim-vi.gif";
 import "./GifSprite.css";
 const GifSpriteFile = () => {
   return (
     <>
       <div class="bird">
         <img src={Birds} alt="robin-tweet-animation" />
-        <img src={Letters} alt="bonwit's-alphabet-animation" />
         <div className="gif">
           <h2>The gif animation plays 3 times.</h2>
           <p>1.Using Photoshop I chose an artboard size 300px x 600px.This is one of the top
@@ -25,8 +23,9 @@ const GifSpriteFile = () => {
             speed through the animation.
           </p>
           <p>
-            6.The use of image and text together echos the original work in the
-            photos from Bonwit's Teller.
+            6.The use of image and text together,including letters from the Bonwit's alphabet,
+             echos the original work in the
+            photos from  the Bonwit's Teller window.
           </p>
         </div>
       </div>
