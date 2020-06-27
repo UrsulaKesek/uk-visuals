@@ -70,7 +70,7 @@ const MockUps = () => {
       <div className="img1">
         <img src={perfume1} alt="perfume-shop" />
       </div>
-      <div className="desc2">
+      <section className="desc2">
         <h2>Mockup 1</h2>
         <hr className="new2"></hr>
         <p>1. Using Photoshop created an artboard size 1472 x 860 pixels </p>
@@ -80,7 +80,7 @@ const MockUps = () => {
         </p>
         <p>
           3.I introduced the two photographs (which have been optimised and
-          re-sized) as the backdrop,positioned and aligned them.
+          re-sized) as the backdrop,positioning and aligning them.
         </p>
         <p>
           4. Created and arranged several structural rectangles to frame the
@@ -147,9 +147,9 @@ const MockUps = () => {
           to change the file from 4.82MB to 330.4K. 100% dither/Selective
           palette/256 colours.It is a bit slow to load but I like the quality.
         </p>
-      </div>
+      </section>
 
-      <div className="desc3">
+      <section className="desc3">
         <p>
           Project: Perfume Shop.<hr className="new1"></hr>
           ITEM 2: Mock up of another slice for MacBookAir. Desktop page. Created
@@ -164,12 +164,12 @@ const MockUps = () => {
           previous page,shown on an expanded card, could become a pop-out link
           to special offers for one of the perfumes.
         </p>
-      </div>
+      </section>
 
       <div className="img2">
         <img src={perfume} alt="perfume-cards" />
       </div>
-      <div className="desc2a">
+      <section className="desc2a">
         <h2>Mockup 2</h2>
         <hr className="new2"></hr>
         <p>1. Using Photoshop created an artboard size 1472 x 860 pixels </p>
@@ -222,8 +222,8 @@ const MockUps = () => {
           button,on one of the products.
         </p>
         <p>11.Added some small birds.</p>
-      </div>
-      <div className="desc3">
+      </section>
+      <section className="desc3">
         <p>
           Project:Perfume Shop.<hr className="new1"></hr>
           ITEMS 3 AND 4: Mockups for a mobile version. Created using Photoshop.
@@ -235,12 +235,12 @@ const MockUps = () => {
           are cultivated.The green square is intended to hold images of the
           various plants in the list.
         </p>
-      </div>
+      </section>
       <div className="img3">
         <img src={perfume2} alt="perfume-shop-mobile" />
         <img src={perfume3} alt="perfume-shop-mobile-plants" />
       </div>
-      <div className="desc2a">
+      <section className="desc2a">
         <h2>Mockup 3</h2>
         <hr className="new2"></hr>
         <p>1. Using Photoshop created an artboard size 425 x 860 pixels </p>
@@ -292,8 +292,8 @@ const MockUps = () => {
           vecteezy
         </a>
         <p>NB:I am not using these as part of a sprite.</p>
-      </div>
-      <div className="desc2a">
+      </section>
+      <section className="desc2a">
         <h2>Mockup 4</h2>
         <hr className="new2"></hr>
         <p>1. Using Photoshop created an artboard size 425 x 860 pixels </p>
@@ -363,7 +363,8 @@ const MockUps = () => {
           vecteezy
         </a>
         <p> NB:I am not using these as part of a sprite</p>
-      </div>
+        <a className="jbtt" href ="#top">Jump back to top</a>
+      </section>
     </>
   );
 };

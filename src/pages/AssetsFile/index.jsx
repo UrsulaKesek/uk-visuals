@@ -33,13 +33,14 @@ const AssetsFile = () => {
           resolution 72ppi.
           <hr className="new1"></hr>
           I started playing with the letters from the Bonwit's Photographs.
-          A B E F G I L M N O R S T V W There are 15
-          out of 26. I filled in the missing 11 with font Saira Stencil One to
+          A B E F G I L M N O R S T V W There are 15 letters
+          out of an alphabet of 26. I filled in the missing 11 with font Saira Stencil One, to
           create a hybrid. It's not a perfect match of course. Another font I
-          could use is Black Ops One. The psd file is editable and one could
-          spend a long time playing. The coloured rectangles are to check some
-          contrasts. The Bonwit's letters in the 1st image have been cleaned up
-          of extraneous marks.
+          could use is Black Ops One. The psd file is editable and 1 could
+          spend a long time playing with this. The coloured rectangles are to check some possible
+          contrasting colours. The Bonwit's letters in the 1st image have been cleaned up
+          and extraneous marks removed using the eraser tool and small brushes as well as
+           the eye-dropper to change pixel colours.
         </p>
         <div className="img1">
         <img src={awletters1} alt="hybrid-font" />
