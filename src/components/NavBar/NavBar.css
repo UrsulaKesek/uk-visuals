@@ -9,22 +9,33 @@ body{
 header{
     display:flex;
     flex-direction:column;
-    margin:50px 370px;
+    margin:30px auto;
+    width:50%;
     background-color:black;
     border-radius:20px ;
     border:6px double darkOrange ;
     color:white;
     height:300px;
 }
+h1{
+    width:50%;
+    align-self: center;
+}
 h3{
-    margin:20px 225px;
-    background-color: darkorange;
+    margin:40px 60%;
+    background-color: rgb(245, 170, 7);
+    background-image: linear-gradient(
+      to top left,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2) 30%,
+      rgba(243, 139, 139, 1)
+    );
     padding:10px 80px 30px;
     width:200px;
     height:30px;
     border-radius: 40px;;
-    color:black;
-    border:3px double black;
+    color:white;
+    border:3px double white;
 }
 nav ul {
     display:flex;flex-direction: row;
