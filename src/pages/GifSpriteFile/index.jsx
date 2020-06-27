@@ -1,11 +1,14 @@
 import React from "react";
 import Birds from "./Images/bird-anim-vi.gif";
 import "./GifSprite.css";
+
 const GifSpriteFile = () => {
   return (
     <>
-        <div class="bird">
+    <div className="bird">
+      <div>
           <img src={Birds} alt="robin-tweet-animation" />
+        </div>
         <div className="gif">
           <h2>The gif animation plays 3 times.</h2>
           <p>
@@ -29,14 +32,11 @@ const GifSpriteFile = () => {
           </p>
           <p>
             6.The use of image and text together,including letters from the
-            Bonwit's alphabet, echos the original look in the photos.
-            Different short messages could be loaded into this space.
+            Bonwit's alphabet, echos the original look in the photos. Different
+            short messages could be loaded into this space.
           </p>
         </div>
-        <div class="birds">
-          <img src={Birds} alt="robin-tweet-animation" />
-        </div>
-      </div>
+    </div>
     </>
   );
 };
