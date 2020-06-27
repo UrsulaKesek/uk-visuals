@@ -1,16 +1,13 @@
 .bird{
+  margin:30px;
   display:flex;
   flex-direction: row;
-  padding:30px ;
+  justify-content: space-evenly;
 }
 .gif{
-  width:550px;
-  padding:20px;
+  width:600px;
+  padding:30px;
   text-align:left;
   background-color: rgb(243, 195, 122);
   color:black;
-}
-.birds{
-  border:5px double darkorange ;
-  padding:30px;
 }

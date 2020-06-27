@@ -4,7 +4,8 @@ import "./GifSprite.css";
 const GifSpriteFile = () => {
   return (
     <>
-      <div class="bird">
+        <div class="bird">
+          <img src={Birds} alt="robin-tweet-animation" />
         <div className="gif">
           <h2>The gif animation plays 3 times.</h2>
           <p>
