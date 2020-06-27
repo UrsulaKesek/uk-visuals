@@ -10,11 +10,21 @@ body {
 .desc3 {
   display: flex;
   flex-direction: row;
+  justify-content: space-evenly;
   margin: 30px auto;
   background-color: rgb(243, 195, 122);
-  width: 80vw;
-  height: 700px;
+  width: 90vw;
+  height: 600px;
   padding: 50px;
+  line-height:1.5rem ;
+}
+.desc1a{
+  padding:30px;
+}
+.awp{
+  position: relative;
+  top:50px;
+  padding:30px;
 }
 .desc3 {
   height: 230px;
@@ -54,13 +64,10 @@ body {
   flex-direction: row;
   justify-content: space-around;
 }
-.awp {
-  position: relative;
-  top: 115px;
-}
 .mmu {
   position: relative;
-  top: 115px;
+  top:50px;
+  padding:30px;
 }
 .m2mu {
   position: relative;

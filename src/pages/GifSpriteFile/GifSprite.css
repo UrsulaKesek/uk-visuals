@@ -1,0 +1,16 @@
+.birds {
+  margin: 40px;
+  display: flex;
+  flex-direction: row;
+}
+.gif {
+  background-color: #b8ae33;
+  position: relative;
+  right:60px;
+  width:550px;
+  padding: 30px;
+}
+.rob{
+    position: relative;
+    left:100px;
+}

@@ -11,8 +11,8 @@ const MockUps = () => {
       <header className="mockups">
         MOCKUPS: use FULL SCREEN VIEW and keep scrolling!
       </header>
-      <div className="desc1">
-        <p>
+      <section className="desc1">
+        <section className="desc1a">
           <h2> Project: Perfume Shop. </h2>
           <hr className="new1"></hr>
           ITEM 1: Mock up for the homepage of the website for MacBookAir.
@@ -23,9 +23,9 @@ const MockUps = () => {
           <hr className="new1"></hr>
           Original size of shopfront with cats photograph : 5016 x 6132 pixels
           at resolution of 600 px/inch.File-size:15.9MB
-        </p>
+        </section>
 
-        <p className="awp">
+        <section className="awp">
           The photographs I used for this mock-up are of a shop window display
           at Bonwit Teller, NewYork from 1955. Andy Warhol created the backdrop
           display of wooden plank panels,painted (in a light tone, impossible to
@@ -53,8 +53,8 @@ const MockUps = () => {
               Cats
             </a>
           </div>
-        </p>
-        <p className="mmu">
+        </section>
+        <section className="mmu">
           My first mock-up image incorporates two black and white photographs as
           a backdrop to the page window. I found a link for the photographs in
           ID magazine-April 2017,to New School Archives-New York. I downloaded
@@ -65,8 +65,8 @@ const MockUps = () => {
           banner across the top, separating links to other pages of the
           web-site, a cat bottom left and a bird bottom right.I think "cats" and
           "birds" was slang for men and women respectively.Cool cats and chicks!
-        </p>
-      </div>
+        </section>
+      </section>
       <div className="img1">
         <img src={perfume1} alt="perfume-shop" />
       </div>
