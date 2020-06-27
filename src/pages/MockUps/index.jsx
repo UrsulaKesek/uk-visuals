@@ -93,7 +93,8 @@ const MockUps = () => {
         </p>
         <p>
           5. Created and arranged several rectangles and oval shapes over the
-          "cut-outs", in the planks, in the photographs.
+          "cut-outs", in the planks, in the photographs.The planks form natural
+           vertical guides.
         </p>
         <p>
           6. I used 5 colours from a group I created using the creative-cloud
