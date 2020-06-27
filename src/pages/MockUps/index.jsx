@@ -363,7 +363,7 @@ const MockUps = () => {
           vecteezy
         </a>
         <p> NB:I am not using these as part of a sprite</p>
-        <a className="jbtt" href ="#top">Jump back to top</a>
+        <a className="jbtt" href ="#top">To Top</a>
       </section>
     </>
   );

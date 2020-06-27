@@ -39,7 +39,7 @@ body {
   height: 1350px;
 }
 .desc2a {
-  height: 1000px;
+  height: 1050px;
 }
 .desc2 h2,
 .desc2a h2 {
@@ -88,6 +88,30 @@ hr.new2 {
   border-radius: 30px;
   width: 250px;
 }
+.jbtt{
+  margin: 10px 50px;
+  width: 100px;
+  height: 70px;
+  line-height: 2.5;
+  padding: 10px 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 20px;
+  border: 6px double black;
+  background-color: rgb(59, 245, 7);
+  background-image: linear-gradient(
+    to top left,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2) 30%,
+    rgba(44, 242, 222, 0.7)
+  );
+  box-shadow: inset 4px 4px 4px rgba(255, 255, 255, 0.6),
+    inset -4px -4px 3px rgba(0, 0, 0, 0.6);
+  outline: none;
+}
+
 .mockups {
   height: 90px;
   padding: 30px 140px;
@@ -146,13 +170,5 @@ p {
   border-radius:20px ;
   background-color: rgb(103, 3, 94);
   color: white;
-  padding:10px;
-}
-.jbtt{
-  margin:50px;
-  width: 110px;
-  border-radius:20px ;
-  background-color: rgb(8, 240, 8);
-  color: black;
   padding:10px;
 }

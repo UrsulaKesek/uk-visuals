@@ -208,6 +208,7 @@ const AssetsFile = () => {
         <p>7.I optimised and exported for web using PNG-8.</p>
         <p>8.I duplicated and resized the png to four different sizes.</p>
         <p>You can see here how large the original photpgraphic section is.</p>
+        <a className="jbtt" href ="#top">To Top</a>
       </div>
     </div>
   );

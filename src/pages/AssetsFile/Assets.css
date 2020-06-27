@@ -10,6 +10,30 @@
 .img1,.img1a{
   margin:0px auto;
 }
+.jbtt{
+  display: block;
+  margin: 0 1vmin;
+  width: 150px;
+  height: 70px;
+  line-height: 2.5;
+  padding: 10px 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 20px;
+  border: 6px double black;
+  background-color: rgb(59, 245, 7);
+  background-image: linear-gradient(
+    to top left,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2) 30%,
+    rgba(44, 242, 222, 0.7)
+  );
+  box-shadow: inset 4px 4px 4px rgba(255, 255, 255, 0.6),
+    inset -4px -4px 3px rgba(0, 0, 0, 0.6);
+  outline: none;
+}
 .pic1 {
   display: flex;
   flex-direction: column;
