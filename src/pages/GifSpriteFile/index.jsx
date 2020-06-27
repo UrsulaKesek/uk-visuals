@@ -10,7 +10,7 @@ const GifSpriteFile = () => {
           <img className="rob" src={Birds} alt="robin-tweet-animation" />
         </div>
         <div className="gif">
-          <h2>The gif animation plays 3 times.</h2>
+          <h2> There is a 3 second delay before the animation starts and it plays 3 times.</h2>
           <p>
             1.Using Photoshop I chose an artboard size 300px x 600px.This is one
             of the top performing Ad sizes as suggested on the website for
