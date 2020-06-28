@@ -36,15 +36,6 @@ h3 {
   color: white;
   border-radius: 50%;
   border: 3px double white;
-  animation: roll infinite 4s ease-in;
-}
-@keyframes roll {
-  from {
-    transform: translate(40px 0px);
-  }
-  to {
-    transform: translate(80px 40px);
-  }
 }
 nav ul {
   display: flex;
