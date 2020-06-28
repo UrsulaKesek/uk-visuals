@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/uk-visuals/static/css/main.b54295e0.chunk.css",
+    "main.css": "/uk-visuals/static/css/main.c02d6e80.chunk.css",
     "main.js": "/uk-visuals/static/js/main.76066916.chunk.js",
     "main.js.map": "/uk-visuals/static/js/main.76066916.chunk.js.map",
     "runtime-main.js": "/uk-visuals/static/js/runtime-main.679b2b99.js",
@@ -8,9 +8,9 @@
     "static/js/2.5bc41f31.chunk.js": "/uk-visuals/static/js/2.5bc41f31.chunk.js",
     "static/js/2.5bc41f31.chunk.js.map": "/uk-visuals/static/js/2.5bc41f31.chunk.js.map",
     "index.html": "/uk-visuals/index.html",
-    "precache-manifest.5eaed510bcb5493d8e8fdb93f549dd86.js": "/uk-visuals/precache-manifest.5eaed510bcb5493d8e8fdb93f549dd86.js",
+    "precache-manifest.f416fc15e9ebea94f638b9349e9322c2.js": "/uk-visuals/precache-manifest.f416fc15e9ebea94f638b9349e9322c2.js",
     "service-worker.js": "/uk-visuals/service-worker.js",
-    "static/css/main.b54295e0.chunk.css.map": "/uk-visuals/static/css/main.b54295e0.chunk.css.map",
+    "static/css/main.c02d6e80.chunk.css.map": "/uk-visuals/static/css/main.c02d6e80.chunk.css.map",
     "static/js/2.5bc41f31.chunk.js.LICENSE.txt": "/uk-visuals/static/js/2.5bc41f31.chunk.js.LICENSE.txt",
     "static/media/Magenta1q.png": "/uk-visuals/static/media/Magenta1q.1ea24303.png",
     "static/media/Perfume1.jpeg": "/uk-visuals/static/media/Perfume1.14c6b44c.jpeg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.679b2b99.js",
     "static/js/2.5bc41f31.chunk.js",
-    "static/css/main.b54295e0.chunk.css",
+    "static/css/main.c02d6e80.chunk.css",
     "static/js/main.76066916.chunk.js"
   ]
 }
