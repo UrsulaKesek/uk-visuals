@@ -3,8 +3,8 @@ import "./HomePage.css";
 
 
 const HomePage = () => 
-<div className="home">
+<main className="home">
     <h1>Please use FULL SCREEN VIEW when looking at the files.</h1>
-</div>
+</main>
 
 export default HomePage;

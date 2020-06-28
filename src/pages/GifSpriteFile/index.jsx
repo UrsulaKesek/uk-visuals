@@ -5,7 +5,7 @@ import "./GifSprite.css";
 const GifSpriteFile = () => {
   return (
     <>
-    <div className="birds">
+    <section className="birds">
         <div>
           <img className="rob" src={Birds} alt="robin-tweet-animation" />
         </div>
@@ -36,7 +36,7 @@ const GifSpriteFile = () => {
             short messages could be loaded into this space.
           </p>
         </div>
-    </div>
+    </section>
     </>
   );
 };

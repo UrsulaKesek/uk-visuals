@@ -25,9 +25,9 @@ import tightrope from "./Images/tightrope5.jpg";
 
 const AssetsFile = () => {
   return (
-    <div>
+    <section>
       <header className="assets">ASSETS: use FULL SCREEN VIEW and keep scrolling! There are 6 sections.</header>
-      <div className="pic1">
+      <section className="pic1">
         <p>
           IMAGE 1.size:450 x 552 px resolution 72ppi. IMAGE.1a size:700 x 866 px
           resolution 72ppi.
@@ -48,8 +48,8 @@ const AssetsFile = () => {
         <div className="img1a">
         <img src={awletters} alt="hybrid-font" />
         </div>
-      </div>
-      <div className="pic2">
+      </section>
+      <section className="pic2">
         <h1> Image 2:Evolution of the blue cat.</h1>
         <div className="pic2a">
           <p>
@@ -76,18 +76,18 @@ const AssetsFile = () => {
             Image.
           </p>
         </div>
-      </div>
-      <div className="picta">
+      </section>
+      <section className="picta">
         <img src={cat} alt="cat-drawing" />
         <img src={cat1} alt="cat-drawing" />
         <img src={cat2} alt="cat-drawing" />
-      </div>
-      <div className="picta">
+      </section>
+      <section className="picta">
         <img src={cat3} alt="blue-cat-drawing" />
-      </div>
-      <div className="pic2">
+      </section>
+      <section className="pic2">
         <h1> Image 3:Perfume Bottles.</h1>
-        <div className="pic2">
+        <section className="pic2">
           <p>1. I collected several perfume bottle images from the internet.</p>
           <p>2. I chose ones with similar colours:black gold white.</p>
           <p>
@@ -103,39 +103,39 @@ const AssetsFile = () => {
             6.Positioned them around the Homepages of both mobile and desktop
             mockups.
           </p>
-        </div>
-      </div>
-      <div className="pic3">
+        </section>
+      </section>
+      <section className="pic3">
         <img src={Perfume3} alt="perfume-bottle-3" />
         <p>Original size:299 x 169 px 10Kb</p>
-      </div>
-      <div className="pic3">
+      </section>
+      <section className="pic3">
         <img src={Perfume1} alt="perfume-bottle-1" />
         <p>Original size:450 x 450 px 60Kb</p>
         <img src={Perfume4} alt="perfume-bottle-4" />
         <p>Original size:400 x 534 px 149Kb</p>
-      </div>
-      <div className="pic3">
+      </section>
+      <section className="pic3">
         <img src={Perfume2} alt="perfume-bottle-2" />
         <p>Original size:900 x 900 px 37Kb</p>
-      </div>
-      <div className="pic3">
+      </section>
+      <section className="pic3">
         <img src={Perfume5} alt="perfume-bottle-5" />
         <p> Optimised size:75 x 161 px 37Kb</p>
-      </div>
-      <div className="pic3">
+      </section>
+      <section className="pic3">
         <img src={Perfume6} alt="perfume-bottle-6" />
         <p> Optimised size:75 x 88px 8Kb</p>
-      </div>
-      <div className="pic3">
+      </section>
+      <section className="pic3">
         <img src={Perfume7} alt="perfume-bottle-7" />
         <p> Optimised size:100 x 145 px 12Kb</p>
-      </div>
-      <div className="pic3">
+      </section>
+      <section className="pic3">
         <img src={Perfume8} alt="perfume-bottle-8" />
         <p> Optimised size:75 x 142 px 8Kb</p>
-      </div>
-      <div className="pic4">
+      </section>
+      <section className="pic4">
         <h2 className="clubs"> Image 4:Playing-card Clubs symbol</h2>
         <div className="clubs">
           <img src={clubs4} alt="club-symbol-small" />
@@ -147,15 +147,15 @@ const AssetsFile = () => {
           <img src={clubs1} alt="club-symbol-x-large" />
           <p>size 256 x 256 px</p>
         </div>
-      </div>
-      <div className="pic4">
+      </section>
+      <section className="pic4">
         <p>
           {" "}
           Image 4:A similar process to the way the cat image was produced was
           utilised here for the club symbol and I used a 48x48 px version for the favicon.
         </p>
-      </div>
-      <div className="pic5">
+      </section>
+      <section className="pic5">
         <p>IMAGE:5 Walking a tightrope.</p>
         <p>
           This seems relevant here as I have been walking a tight rope between
@@ -166,10 +166,10 @@ const AssetsFile = () => {
           Black ops font.It's hard to know when to stop tweaking. This image
           might or might not be utilised. I've been having a lot of fun!.
         </p>
-      </div>
-      <div className="pic6">
+      </section>
+      <section className="pic6">
         <img src={tightrope} alt="girl-with-flags-on-a-tightrope" />
-      </div>
+      </section>
       <div className="pic6">
         <p className="pic7">IMAGE:6 Birds.</p>
         <p></p>
@@ -188,7 +188,7 @@ const AssetsFile = () => {
         <img src={Robin2} alt="small-bird" />
       </div>
 
-      <div className="pic7 p">
+      <section className="pic7 p">
         <p>
           Edited part of the photograph with birds. This image shows where I
           have coloured the bird.
@@ -209,8 +209,8 @@ const AssetsFile = () => {
         <p>8.I duplicated and resized the png to four different sizes.</p>
         <p>You can see here how large the original photpgraphic section is.</p>
         <a className="jbtt" href ="#top">To Top</a>
-      </div>
-    </div>
+      </section>
+    </section>
   );
 };
 export default AssetsFile;
