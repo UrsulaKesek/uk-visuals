@@ -8,7 +8,6 @@ const NavBar = () => (
       <h1>VISUAL DESIGN</h1>
       <h2>URSULA KESEK</h2>
       <h3>2020</h3>
-
     </header>
     <ul>
       <li>
