@@ -11,7 +11,7 @@ const NavBar = () => (
     </header>
     <ul>
       <li>
-        <Link to="/" exact>
+        <Link to="/home" exact>
           HomePage
         </Link>
       </li>

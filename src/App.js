@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <Switch>
-      <Route path="/" exact component={HomePage} />
+      <Route path="/home" exact component={HomePage} />
       <Route path="/mockups" exact component={MockUps} />
       <Route path="/assets" exact component={AssetsFile} />
       <Route path="/gif" exact component={GifSpriteFile} />
