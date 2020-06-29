@@ -281,7 +281,8 @@ const MockUps = () => {
         </p>
         <p>
           10.I added some coloured,square social media icons inside the bottom
-          rectangle. They are from:
+          rectangle.Other ones may be added and I used a different size 
+          in the next mock-up They are from:
         </p>
         <a
           className="vect"
@@ -338,8 +339,9 @@ const MockUps = () => {
         <p>
           9.Photograph of ylang-ylang - stock image from the internet,
           duplicated and re-sized from 736x736 px down to 184x184px optimised
-          from jpeg to 8-PNG on photoshop save for web. Final images for this
-          space will be researched at a later date.
+          from jpeg to 8-PNG on photoshop save for web.I have not bought this image, so it has
+          123rf "watermark" on it.  Several images will be
+           needed for this space.One for each of the plants.
         </p>
         <a
           className="ylang"
