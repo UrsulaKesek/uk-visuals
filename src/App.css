@@ -9,4 +9,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.view{
+  color:white;
+  margin:40px 280px;
+  text-align: center;
+  font-size:1.5rem ;
+}
