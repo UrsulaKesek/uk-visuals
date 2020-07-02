@@ -6,7 +6,7 @@ import { AssetsFile, GifSpriteFile, HomePage, MockUps } from "./pages";
 function App() {
   return (
     <>
-      <p>Please start by clicking on the Home Page.</p>
+    <p className="start">Please start by clicking HomePage</p>
       <Switch>
         <Route path="/home" exact component={HomePage} />
         <Route path="/mockups" exact component={MockUps} />

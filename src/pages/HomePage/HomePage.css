@@ -6,7 +6,6 @@ h1 {
   margin: 40px 280px;
   text-align: center;
 }
-p {
-  color: white;
-  font-size: 2em;
+.home{
+  color:white;
 }
