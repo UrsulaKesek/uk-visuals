@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ce10a310b36bfee93f24924978cf45c",
+    "revision": "be08f968333006e2bf4262502122b4ed",
     "url": "/uk-visuals/index.html"
   },
   {
-    "revision": "da28f5a28ff41d7ffe66",
+    "revision": "107f28fc72f309c9d50d",
     "url": "/uk-visuals/static/css/main.b5d23774.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uk-visuals/static/js/2.5bc41f31.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da28f5a28ff41d7ffe66",
-    "url": "/uk-visuals/static/js/main.1157724d.chunk.js"
+    "revision": "107f28fc72f309c9d50d",
+    "url": "/uk-visuals/static/js/main.a20685aa.chunk.js"
   },
   {
     "revision": "e2c7e8c1f7991a696d2c",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uk-visuals/static/media/aw-letters-9a.5d18f425.png"
   },
   {
-    "revision": "0bc50558ca165a4687cd2a4d16699e43",
-    "url": "/uk-visuals/static/media/bird-anim-vi.0bc50558.gif"
+    "revision": "82195aaa0670b7e7c10a73485e48f135",
+    "url": "/uk-visuals/static/media/bird-anim-vi.82195aaa.gif"
   },
   {
     "revision": "b250365cf04b1b1f32b8f90dd61d69fc",
