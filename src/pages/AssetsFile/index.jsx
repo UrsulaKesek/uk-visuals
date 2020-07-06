@@ -60,7 +60,7 @@ const AssetsFile = () => {
             a size of 1005 x 2121 px.Saved image.
           </p>
           <p>
-            3. I duplicate the image and re-sized that to 500 x 1055px.Still quite
+            3. I duplicated the image and re-sized that to 500 x 1055px.Still quite
             big.Saved the image.
           </p>
           <p>4.Duplicated and re-sized again to 250 x 525px.Saved Image.</p>
