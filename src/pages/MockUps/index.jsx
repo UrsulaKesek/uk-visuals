@@ -38,7 +38,8 @@ const MockUps = () => {
               className="newschool"
               target="_blank"
               rel="noopener noreferrer"
-              href="https://digitalarchives.library.newschool.edu/index.php/Detail/objects/KA0001_000495"
+              href="https://digital.archives.newschool.edu/index.php/Detail/objects/KA0001_000495"
+              
             >
               Birds
             </a>
@@ -48,7 +49,7 @@ const MockUps = () => {
               className="newschool"
               target="_blank"
               rel="noopener noreferrer"
-              href="https://digitalarchives.library.newschool.edu/index.php/Detail/objects/KA0001_000496"
+              href="https://digital.archives.newschool.edu/index.php/Detail/objects/KA0001_000496"
             >
               Cats
             </a>
